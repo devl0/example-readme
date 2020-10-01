@@ -87,11 +87,6 @@ Embedding an animated gif in your README quickly demonstrates what your project 
 - [maintainer.io](https://maintainer.io/) - Free README standardization and feedback, if you click on 'Book an audit'.
 - This repository. Submit a PR with your README!
 
-## Contribute
-
-Contributions are always welcome!
-Please read the [contribution guidelines](contributing.md) first.
-
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
